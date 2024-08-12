@@ -21,7 +21,7 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 💬 Ask me about **Node, React, Postgres, MongoDB**
+- 💬 Ask me about **Node,Nest,React, Postgres, MongoDB**
 
 - 📫 Feel free to reach me out **anubhavshail2@gmail.com**
 
@@ -73,7 +73,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,flask,git,github,aws,docker,html,css,materialui,tailwind,express,nodejs,react,redux,postgres,prisma,linux,bash,md,mongodb,mysql,postman,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,flask,git,github,aws,docker,html,css,materialui,tailwind,express,nodejs,nestjs,react,redux,postgres,prisma,linux,bash,md,mongodb,mysql,postman,vscode&perline=14" />
   </a>
 </p>
 
